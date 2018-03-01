@@ -1,5 +1,5 @@
 # basic options
-title: New-awesome-blog
+title: Twenty-Two
 author: Smart Guy
 email: your-email@domain.com
 description: A wonderful site that captures the jounery of my life after university
@@ -8,4 +8,4 @@ github_username:  evanwill
 
 # Build settings
 markdown: kramdown
-remote_theme: jekyller/jasper2
+remote_theme: techieshark/strongly-typed-jekylled
