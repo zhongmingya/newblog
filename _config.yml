@@ -1,24 +1,11 @@
 # basic options
-name: "Twenty-Two"
-description: "A blog to caputre my jounery after university."
-pygments: true
-baseurl: "/newblog"
-#excerpt_separator: "<!--more-->"
-
-owner: "Your Name"
-email: "foo@bar.com"
-twitter: "techieshark"
-github: "user.name"
-facebook: "user.name"
-# the following really long number is what you find in https://plus.google.com/your-really-long-id/posts
-googleplus: 111111111111111111
-location: |
-    1234 Somewhere Road
-    Nashville, TN 00000
-    USA
-phone: 555-555-5555
-skype: your.username
+title: Twenty-Two 
+author: Mingya 
+email: your-email@domain.com
+description: A blog to caputre the jounery of my life after university 
+twitter_username: jekyllrb
+github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-remote_theme: techieshark/strongly-typed-jekylled
+theme: Sylhare/Type-on-Strap
