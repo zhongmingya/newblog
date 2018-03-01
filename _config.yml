@@ -1,10 +1,23 @@
 # basic options
-title: Twenty-Two
-author: Smart Guy
-email: your-email@domain.com
-description: A wonderful site that captures the jounery of my life after university
-twitter_username: potus
-github_username:  evanwill
+name: "Twenty-Two"
+description: "A blog to caputre my jounery after university."
+pygments: true
+baseurl: "/newblog"
+#excerpt_separator: "<!--more-->"
+
+owner: "Your Name"
+email: "foo@bar.com"
+twitter: "techieshark"
+github: "user.name"
+facebook: "user.name"
+# the following really long number is what you find in https://plus.google.com/your-really-long-id/posts
+googleplus: 111111111111111111
+location: |
+    1234 Somewhere Road
+    Nashville, TN 00000
+    USA
+phone: 555-555-5555
+skype: your.username
 
 # Build settings
 markdown: kramdown
