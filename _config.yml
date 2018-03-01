@@ -8,4 +8,4 @@ github_username:  evanwill
 
 # Build settings
 markdown: kramdown
-remote_theme: daviddarnes/alembic
+remote_theme: jekyller/jasper2
