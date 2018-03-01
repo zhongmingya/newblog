@@ -8,4 +8,4 @@ github_username:  jekyll
 
 # Build settings
 markdown: kramdown
-remote_theme: Sylhare/Type-on-Strap
+remote_theme: iwiedenm/jekyll-theme-massively-src
