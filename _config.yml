@@ -1,7 +1,7 @@
 # Site
-title:              Massively
-bio:                'Jekyll version of the Massively theme by HTML5UP'
-description:        "Jekyll version of the Massively theme by HTML5UP"
+title:              Twenty-Two
+bio:                'A Millennial Kid trying out Blogging'
+description:        "A wonderful website to capture the jounery of my life after university"
 locale:             en_US
 baseurl: "/newblog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
