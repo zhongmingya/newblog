@@ -1,6 +1,6 @@
 ---
-layout: post
-title: New Start 
+layout:  post
+title:  New Start 
 ---
 
 I am going to turn 22 in 2 days. 
